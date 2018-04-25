@@ -1,0 +1,30 @@
+h1{
+  font-size: 50px;
+  text-align: center;
+  color: blue;
+}
+img{
+  width:150px;
+  height:150px;
+}
+body{
+  background-image: url(/home/valentine/Downloads/PROJECT/image/myimage.jpg);
+}
+.important {
+  color: blue;
+}
+.important {
+  width: 350px;
+  float: left;
+}
+.style{
+  font-style: italic;
+}
+ul a {
+  border: 1px solid white;
+  background-color: lightblue;
+}
+.page{
+  width: 350px;
+  float: right;
+}
