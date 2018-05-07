@@ -8,7 +8,7 @@ img{
   height:150px;
 }
 body{
-  background-image: url(/home/valentine/Downloads/PROJECT/image/myimage.jpg);
+  background-image: url(../image/myimage.jpg);
 }
 .important {
   color: blue;
