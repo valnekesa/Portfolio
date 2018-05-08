@@ -9,6 +9,7 @@ Valentine Nekesa.
 https://valnekesa.github.io/mp_portfolio/
 
 <strong>Project setup instructions</strong>
+
 To see the work done use the following commands:
 git clone https://github.com/valnekesa/portfolio.git
 cd portfolio
