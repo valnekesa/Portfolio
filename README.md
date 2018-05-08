@@ -1,8 +1,11 @@
-<strong>Assignment: Personal Portfolio</strong>
+<strong>Assignment:
+Personal Portfolio</strong>
+
 Author(s)
 Valentine Nekesa.
 
 <strong>Link to deployed website</strong>
+
 https://valnekesa.github.io/mp_portfolio/
 
 <strong>Project setup instructions</strong>
