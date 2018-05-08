@@ -1,6 +1,6 @@
 Assignment: Personal Portfolio
 Author(s)
-Andrew Waweru.
+Valentine Nekesa.
 
 Link to deployed website
 https://valnekesa.github.io/mp_portfolio/
