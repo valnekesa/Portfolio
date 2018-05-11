@@ -6,7 +6,7 @@ Valentine Nekesa.
 
 <strong>Link to deployed website</strong>
 
-https://valnekesa.github.io/independent-project/
+https://valnekesa.github.io/Portfolio/
 
 <strong>Project setup instructions</strong>
 
