@@ -6,7 +6,7 @@ Valentine Nekesa.
 
 <strong>Link to deployed website</strong>
 
-https://valnekesa.github.io/mp_portfolio/
+https://valnekesa.github.io/portfolio/
 
 <strong>Project setup instructions</strong>
 
